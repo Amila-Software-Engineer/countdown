@@ -12,7 +12,7 @@ export class CountdownComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  countdownDate = new Date("january 7, 2023 20:00:00").getTime();
+  countdownDate = new Date("january 16, 2023 20:00:00").getTime();
   days:any;
   hours:any;
   minutes:any;
